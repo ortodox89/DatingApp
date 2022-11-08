@@ -61,3 +61,6 @@ C:\Users\ortod\Desktop\Demo\DatingApp\API\bin\Debug\net6.0\System.IdentityModel.
 C:\Users\ortod\Desktop\Demo\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\ortod\Desktop\Demo\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\ortod\Desktop\Demo\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ortod\Desktop\Demo\DatingApp\API\bin\Debug\net6.0\Data\UserSeedData.json
+C:\Users\ortod\Desktop\Demo\DatingApp\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ortod\Desktop\Demo\DatingApp\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

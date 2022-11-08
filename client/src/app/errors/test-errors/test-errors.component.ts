@@ -31,8 +31,8 @@ export class TestErrorsComponent implements OnInit {
       this.validationErrors = error;
     })
   }
-  
   get401Error() {
+    debugger;
     this.http.get(this.baseUrl + 'buggy/auth').subscribe(response => {
       console.log(response);
     }, error => {

@@ -31,8 +31,7 @@ namespace API.Controllers
             
             if (thing == null) return NotFound();
 
-            return Ok(thing);
-
+                return Ok(thing);
         }
 
         [HttpGet("server-error")]
